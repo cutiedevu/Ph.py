@@ -1,2 +1,2 @@
 # Ph.py
-phishing in py
+phishing in python
